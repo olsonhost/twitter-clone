@@ -29,7 +29,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> <?php echo $profileData->name; ?> (@<?php echo $profileData->username; ?>) | Twitter</title>
+    <title> <?php echo $profileData->name; ?> (@<?php echo $profileData->username; ?>) | One Sentence Recipes</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/css/profile_style.css?v=<?php echo time(); ?>">
@@ -47,7 +47,7 @@
         <div class="sidebar-left">
           <div class="grid-sidebar" style="margin-top: 12px">
             <div class="icon-sidebar-align">
-              <img src="https://i.ibb.co/86d7x4Z/twitter.png" alt="" height="30px" width="30px" />
+              <img src="https://i.ibb.co/6tKFLWG/home.png" alt="" height="30px" width="30px" />
             </div>
           </div>
 
@@ -119,9 +119,9 @@
             </div>
           </div>
           </a>
-          <button class="button-twittear">
-            <strong>Tweet</strong>
-          </button>
+<!--          <button class="button-twittear">-->
+<!--            <strong>Tweet</strong>-->
+<!--          </button>-->
   
           <div class="box-user">
             <div class="grid-user">
@@ -399,7 +399,7 @@
             <div class="input-group py-2 m-auto pr-5 position-relative">
 
             <i id="icon-search" class="fas fa-search tryy"></i>
-            <input type="text" class="form-control search-input"  placeholder="Search Twitter">
+            <input type="text" class="form-control search-input"  placeholder="Search One Sentence Recipes">
             <div class="search-result">
 
 

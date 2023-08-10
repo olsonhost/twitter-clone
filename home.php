@@ -22,7 +22,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home | Twitter</title>
+    <title>Home | One Sentence Recipes</title>
     
     <link rel="shortcut icon" type="image/png" href="assets/images/twitter.svg"> 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -67,14 +67,14 @@
         <h4 style="font-weight: 600; " >You Signup Successfuly!</h4>
  
         </div>
-        <p>This is Twitter clone made by <span style="font-weight: 700;">Amin Yasser</span>  for learning purpose.</p>
-        <p>The clone includes tweet , retweet , qoute or even qoute the qouted tweet , like tweet and nested comments.
-          you can mention or add hashtag to yout tweet , change password or username.
-          Follow or unfollow people. get notificaction if any action happen. Search users by name or username. and more!
+        <p>This is One Sentence Recipes made by <span style="font-weight: 700;">Erik Olson</span> for learning purpose.</p>
+        <p>It works just like Twitter. You can "Tweet", Like, Share and Quote, and Search
+          you can add a @mention or #hashtag to your messages, change password or username.
+          Follow or unfollow people, Get notifications, and search users by name or username.
         </p>
         <p>By Signing Up then you followed
-          <a style="color:#207ce5;" href="amin">@amin</a> 
-            by default to see tweets. you can change it anytime!</p>
+          <a style="color:#207ce5;" href="amin">@erik</a>
+            by default to see some messages. you can change it anytime!</p>
       </div>
       
     </div>
@@ -91,7 +91,7 @@
         <div class="sidebar-left">
           <div class="grid-sidebar" style="margin-top: 12px">
             <div class="icon-sidebar-align">
-              <img src="https://i.ibb.co/86d7x4Z/twitter.png" alt="" height="30px" width="30px" />
+              <img src="https://i.ibb.co/6tKFLWG/home.png" alt="" height="30px" width="30px" />
             </div>
           </div>
 
@@ -163,9 +163,9 @@
             </div>
           </div>
           </a>
-          <button class="button-twittear">
-            <strong>Tweet</strong>
-          </button>
+<!--          <button class="button-twittear">-->
+<!--            <strong>Tweet</strong>-->
+<!--          </button>-->
   
           <div class="box-user">
             <div class="grid-user">
@@ -302,7 +302,7 @@
           <div class="input-group py-2 m-auto pr-5 position-relative">
 
           <i id="icon-search" class="fas fa-search tryy"></i>
-          <input type="text" class="form-control search-input"  placeholder="Search Twitter">
+          <input type="text" class="form-control search-input"  placeholder="Search One Sentence Recipes">
           <div class="search-result">
 
 
