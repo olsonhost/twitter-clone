@@ -5,8 +5,9 @@
 class Connect {
     protected static $servername = "localhost";
     protected static $db_name="twitter";
-    protected static $username = "root";
-    protected static $password = "";
+    protected static $username = "heidi";
+    protected static $password = "Mermaid7!!";
+
     protected static $pdo;
     public function __construct() { }
 
