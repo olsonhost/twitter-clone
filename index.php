@@ -11,7 +11,7 @@
 
 <html>
 	<head>
-		<title>One Sentence Recipes</title>
+		<title>Twitterry Website</title>
 		<meta charset="UTF-8" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"/>
         <!-- <link rel="stylesheet" href="assets/css/style-complete.css"/> -->
@@ -29,7 +29,7 @@
                         <img class="login-bird" src="https://image.ibb.co/d0hbJ9/twt_icon.png" alt="bird">
                         <button class="login-small-display signin-btn pri-btn">Log in</button>
                         <span class="front-para">See what’s happening in the world right now</span>
-                        <span class="join">Join One Sentence Recipes today.</span>
+                        <span class="join">Join Twitterry Website today.</span>
                         <button type="button" id="auto" onclick="" class="signup-btn pri-btn" data-toggle="modal" data-target="#exampleModalCenter">
                             Sign Up</button>
                             
@@ -85,7 +85,7 @@
                     <li><a href="#">Developers</a></li>
                     <li><a href="#">Directory</a></li>
                     <li><a href="#">Settings</a></li>
-                    <li>© 2023 One Sentence Recipes Clone</li>
+                    <li>© 2023 Twitterry Website Clone</li>
                 </ul>
             </footer>
         </main>

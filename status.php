@@ -22,7 +22,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Status | One Sentence Recipes</title>
+    <title>Status | Twitterry Website</title>
     <base href="<?php echo BASE_URL; ?>">
     <link rel="shortcut icon" type="image/png" href="assets/images/twitter.svg"> 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -682,7 +682,7 @@
           <div class="input-group py-2 m-auto pr-5 position-relative">
 
           <i id="icon-search" class="fas fa-search tryy"></i>
-          <input type="text" class="form-control search-input"  placeholder="Search One Sentence Recipes">
+          <input type="text" class="form-control search-input"  placeholder="Search Twitterry Website">
           <div class="search-result">
 
 

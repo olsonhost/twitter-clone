@@ -1,4 +1,4 @@
-# <img align="left" alt="One Sentence Recipes" width="30px" src="https://github.com/aminyasser/aminyasser/blob/main/icons/home.png" draggable="false" /> One Sentence Recipes Clone ([Click to try 🚀](https://sn-amin.000webhostapp.com/))
+# <img align="left" alt="Twitterry Website" width="30px" src="https://github.com/aminyasser/aminyasser/blob/main/icons/home.png" draggable="false" /> Twitterry Website Clone ([Click to try 🚀](https://sn-amin.000webhostapp.com/))
 
 Bulit PHP **_Twitter Clone_** IN OOP style and using MYSQL Database. AJAX and Jquery for requests without reloading like Follow/unfollow, like, Search users, Show popups like comment , User lists, etc.
 

@@ -22,7 +22,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home | One Sentence Recipes</title>
+    <title>Home | Twitterry Website</title>
     
     <link rel="shortcut icon" type="image/png" href="assets/images/twitter.svg"> 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -67,7 +67,7 @@
         <h4 style="font-weight: 600; " >You Signup Successfuly!</h4>
  
         </div>
-        <p>This is One Sentence Recipes made by <span style="font-weight: 700;">Erik Olson</span> for learning purpose.</p>
+        <p>This is Twitterry Website made by <span style="font-weight: 700;">Erik Olson</span> for learning purpose.</p>
         <p>It works just like Twitter. You can "Tweet", Like, Share and Quote, and Search
           you can add a @mention or #hashtag to your messages, change password or username.
           Follow or unfollow people, Get notifications, and search users by name or username.
@@ -302,7 +302,7 @@
           <div class="input-group py-2 m-auto pr-5 position-relative">
 
           <i id="icon-search" class="fas fa-search tryy"></i>
-          <input type="text" class="form-control search-input"  placeholder="Search One Sentence Recipes">
+          <input type="text" class="form-control search-input"  placeholder="Search Twitterry Website">
           <div class="search-result">
 
 
